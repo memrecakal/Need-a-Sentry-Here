@@ -1,5 +1,5 @@
 # Need-a-Sentry-Here
-A sentry for friendly service that uses python and mediapipe for image processing.
+A friendly sentry that uses python and mediapipe for image processing.
 
 The project is still in development, however the pose recognition system for target aiming is up and running. Solid models are currently being drawn and prepared for production. Necessary servo motors and arduino controls will also be developed in the near future.
 
